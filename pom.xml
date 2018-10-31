@@ -44,7 +44,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>ru.ak.app.Main</mainClass>
+                            <mainClass>ru.ak.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
@@ -70,7 +70,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>ru.ak.app.Main</mainClass>
+                            <mainClass>ru.ak.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
